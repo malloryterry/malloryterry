@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @malloryterry and I'm a PhD Candidate in Neuroscience and Applied Cognitive Science at the University of Guelph
+- 👋 Hi, I’m @malloryterry and I'm a Postdoctoral Fellow at McMaster University in Hamilton, Ontario, Canada.
 - 👀 I’m interested in how we navigate and interact with complex visual environments
-- 📫 You can reach me by emailing terry at uoguelph dot ca
+- 📫 You can reach me by emailing terryme at mcmaster dot ca
 - 😄 Pronouns: she/her
 
 <!---
